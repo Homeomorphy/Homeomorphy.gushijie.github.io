@@ -7,7 +7,7 @@ author_profile: true
 12. S. Gu, <i>Z-compactifiable manifolds which are not pseudo-collarable</i>, Algebr. Geom. Topol. 22 (2022), no. 7, 3459--3484. <br>
 11. S. Gu, <i>Contractible open manifolds which embed in no compact, locally connected, locally 1-connected metric space</i>, Algebr. Geom. Topol. 21 (2021), no. 3, 1327–1350.<br>
 10. S. Gu, <i>Characterization of pseudo-collarable manifolds with boundary</i>, Michigan Math. J. 69 (2020), no. 4, 733–750.<br>
-9. S. Gu, <i>C. R. Guilbault, Compactifications of manifolds with boundary</i>, J. Topol. Anal. 12 (2020), no. 4, 1073–1101.<br>
+9. S. Gu, C. R. Guilbault, <i>Compactifications of manifolds with boundary</i>, J. Topol. Anal. 12 (2020), no. 4, 1073–1101.<br>
 8. S. Gu, <i>On small metric spheres and local cone structures of Busemann G-spaces</i>, Houston J. Math. 45 (2019), no. 1, 285–291.<br>
 7. S. Kravtsov, C. Grimm and S. Gu, <i>Global-Scale multidecadal variability missing in state-of-the-art</i>, npj Climate and Atmospheric Science 1 (2018), no. 34.<br>
 6. S. Gu, <i>Degree of homogeneity on suspensions of manifolds</i>, Topology Appl. 238 (2018), 20–23.<br>
