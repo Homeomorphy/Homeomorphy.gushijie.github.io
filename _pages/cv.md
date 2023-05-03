@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics & Applied Mathematics, Shanghai University, 2007
+* B.S. in Mathematics & Applied Mathematics, Shanghai University, 2011
 * M.S. in Mathematics, University of Nevada, 2014
 * Ph.D in Mathematics, University of Wisconsin, 2018
 
