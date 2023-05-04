@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shijie Gu"
+  name             : "Shijie Gu (He/His/Him)"
   avatar           : "profile.png"
   bio              : "Topologist"
   location         : #"Location"
@@ -107,11 +107,11 @@ author:
   pinterest        :
   soundcloud       :
   mathoverflow     : "https://mathoverflow.net/users/114032/shijie-gu"
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            :  #
   xing             :
   youtube          :
   wikipedia        :
