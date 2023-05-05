@@ -11,7 +11,6 @@ redirect_from:
 I’m a professor at Northeastern University working on topology of finite-dimensional manifolds and wild topology.
 
 
-Sometimes, I hang out around <a href="https://mathoverflow.net/users/114032/shijie-gu">MathOverflow</a>.
 
 
 
